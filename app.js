@@ -1,29 +1,18 @@
 // Loyihalar bazasi
 const projectsData = {
     1: {
-        title: "Counter",
-        desc: "Malumot",
-        link: "https://counter-190310.netlify.app/",
-        img: "photo_2026-05-13_15-24-34.jpg"
+        title: "HEADSHOT CYBERSPORT",
+        desc: "Bu loyiha kiber-sport markazi uchun maxsus yaratilgan...",
+        link: "https://example.com/project1",
+        img: "photo_2026-04-06_18-20-30.jpg"
     },
     2: {
-        title: "Royhat",
-        desc: "Malumot",
-        link: "https://royhat-190310.netlify.app/",
-        img: "photo_2026-05-13_16-18-29.jpg"
-    },
-    3: {
-        title: "Raqamni top",
-        desc: "Malumot",
-        link: "https://raqam-top-190310.netlify.app/",
-        img: "photo_2026-05-13_16-23-28.jpg"
-    },
-    4: {
-        title: "Shajara",
-        desc: "Malumot",
-        link: "https://shajara-2-190310.netlify.app/",
-        img: "photo_2026-05-13_16-27-48.jpg"
+        title: "NOTIX APP",
+        desc: "Eslatmalarni boshqarish uchun qulay mobil ilova dizayni...",
+        link: "https://example.com/project2",
+        img: "project2.jpg"
     }
+    
 };
 
 function openProject(id) {
