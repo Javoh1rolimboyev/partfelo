@@ -90,6 +90,13 @@ const projectsData = {
         link: "https://tugilgan-kun-190310.netlify.app/",
         link1: "https://github.com/Javoh1rolimboyev/tuglgan-kun",
         img: "photo_2026-05-12_19-30-50.jpg"
+    },
+     14: {
+        title: "To-do-list",
+        desc: "Malumot",
+        link: "https://to-do-list190310.netlify.app/",
+        link1: "https://github.com/Javoh1rolimboyev/to-do-list",
+        img: "Снимок экрана 2026-05-22 152343.png"
     }
 };
 
