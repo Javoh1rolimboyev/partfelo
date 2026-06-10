@@ -108,8 +108,8 @@ function openProject(id) {
         `<img src="${project.img}" style="width:100%; border-radius:8px; margin-top:20px;">
         <h2 style="margin:20px 0;">${project.title}</h2>
         <p style="color:#aaa; line-height:1.6;">${project.desc}</p>
-        <a href="${project.link}" target="_blank" style="display:inline-block; margin-top:20px; color:#6a3bc2; font-weight:bold;">SAYTGA O'TISH</a>
-        <a href="${project.link1}" target="_blank" style="display:block; margin-top:20px; color:#6a3bc2; font-weight:bold;"> KODNI KORISH</a>`
+        <a href="${project.link}" target="_blank" style="display:inline-block; margin-top:20px; margin-left:12%; margin-right:20px; color:white; font-weight:bold;">SAYTGA O'TISH</a>
+        <a href="${project.link1}" target="_blank" style="display:inline-block; margin-top:20px; margin-left:20px; color:white; font-weight:bold;"> KODNI KORISH</a>`
     ;
     
     document.getElementById('detailsSidebar').classList.add('open');

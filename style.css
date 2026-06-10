@@ -105,6 +105,13 @@ h1 { font-size: 45px; letter-spacing: -1px; }
     padding: 50px 40px;
     z-index: 100;
 }
+.details-panel a{
+    border-radius: 6px;
+    border:solid 2px #20c1fb;
+    padding: 7px;
+    background-color: #20c1fb;
+    text-decoration: none;
+}
 
 .details-panel.open { right: 0; }
 .close-btn { font-size: 30px; cursor: pointer; color: #666; }
