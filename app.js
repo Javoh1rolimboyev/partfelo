@@ -97,6 +97,13 @@ const projectsData = {
         link: "https://to-do-list190310.netlify.app/",
         link1: "https://github.com/Javoh1rolimboyev/to-do-list",
         img: "Снимок экрана 2026-05-22 152343.png"
+    },
+     15: {
+        title: "Kichkina Kalkulyator",
+        desc: "Malumot",
+        link: "https://kichkina-kalkulyator.netlify.app/",
+        link1: "https://github.com/Javoh1rolimboyev/kichkina-kalkulyator",
+        img: "photo_2026-06-12_15-26-43.jpg"
     }
 };
 
